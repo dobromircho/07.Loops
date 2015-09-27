@@ -1,0 +1,5 @@
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\07.CalculateCombinatorics\bin\Debug\07.CalculateCombinatorics.exe.config
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\07.CalculateCombinatorics\bin\Debug\07.CalculateCombinatorics.exe
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\07.CalculateCombinatorics\bin\Debug\07.CalculateCombinatorics.pdb
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\07.CalculateCombinatorics\obj\Debug\07.CalculateCombinatorics.exe
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\07.CalculateCombinatorics\obj\Debug\07.CalculateCombinatorics.pdb

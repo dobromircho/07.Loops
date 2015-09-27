@@ -1,0 +1,6 @@
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\06.CalculateNFactDividedByKFact\bin\Debug\06.CalculateNFactDividedByKFact.exe.config
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\06.CalculateNFactDividedByKFact\bin\Debug\06.CalculateNFactDividedByKFact.exe
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\06.CalculateNFactDividedByKFact\bin\Debug\06.CalculateNFactDividedByKFact.pdb
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\06.CalculateNFactDividedByKFact\obj\Debug\06.CalculateNFactDividedByKFact.exe
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\06.CalculateNFactDividedByKFact\obj\Debug\06.CalculateNFactDividedByKFact.pdb
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\06.CalculateNFactDividedByKFact\obj\Debug\06.CalculateNFactDividedByKFact.csprojResolveAssemblyReference.cache

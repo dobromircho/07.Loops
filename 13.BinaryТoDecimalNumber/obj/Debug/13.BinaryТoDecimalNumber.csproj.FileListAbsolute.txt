@@ -1,0 +1,1 @@
+C:\Users\Dobromir\Documents\Visual Studio 2015\Projects\07.Loops\13.BinaryТoDecimalNumber\bin\Debug\13.BinaryТoDecimalNumber.exe.config

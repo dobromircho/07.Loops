@@ -1,0 +1,5 @@
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe.config
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.pdb
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.exe
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\09.MatrixOfNumbers\obj\Debug\09.MatrixOfNumbers.pdb

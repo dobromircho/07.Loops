@@ -1,0 +1,6 @@
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\01.NumberFromOneToN\bin\Debug\01.NumberFromOneToN.exe.config
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\01.NumberFromOneToN\bin\Debug\01.NumberFromOneToN.exe
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\01.NumberFromOneToN\bin\Debug\01.NumberFromOneToN.pdb
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\01.NumberFromOneToN\obj\Debug\01.NumberFromOneToN.csprojResolveAssemblyReference.cache
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\01.NumberFromOneToN\obj\Debug\01.NumberFromOneToN.exe
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\01.NumberFromOneToN\obj\Debug\01.NumberFromOneToN.pdb

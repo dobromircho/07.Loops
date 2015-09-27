@@ -1,0 +1,5 @@
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\12.RandomizeNumbers1toN\bin\Debug\12.RandomizeNumbers1toN.exe.config
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\12.RandomizeNumbers1toN\bin\Debug\12.RandomizeNumbers1toN.exe
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\12.RandomizeNumbers1toN\bin\Debug\12.RandomizeNumbers1toN.pdb
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\12.RandomizeNumbers1toN\obj\Debug\12.RandomizeNumbers1toN.exe
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\12.RandomizeNumbers1toN\obj\Debug\12.RandomizeNumbers1toN.pdb

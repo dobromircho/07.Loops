@@ -1,0 +1,6 @@
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\08.CatalanNumber\bin\Debug\08.CatalanNumber.exe.config
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\08.CatalanNumber\bin\Debug\08.CatalanNumber.exe
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\08.CatalanNumber\bin\Debug\08.CatalanNumber.pdb
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\08.CatalanNumber\obj\Debug\08.CatalanNumber.exe
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\08.CatalanNumber\obj\Debug\08.CatalanNumber.pdb
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\08.CatalanNumber\obj\Debug\08.CatalanNumber.csprojResolveAssemblyReference.cache

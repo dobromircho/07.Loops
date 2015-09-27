@@ -1,0 +1,5 @@
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\05.Calculate1plus1FactorialDividedByX\bin\Debug\05.Calculate1plus1FactorialDividedByX.exe.config
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\05.Calculate1plus1FactorialDividedByX\bin\Debug\05.Calculate1plus1FactorialDividedByX.exe
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\05.Calculate1plus1FactorialDividedByX\bin\Debug\05.Calculate1plus1FactorialDividedByX.pdb
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\05.Calculate1plus1FactorialDividedByX\obj\Debug\05.Calculate1plus1FactorialDividedByX.exe
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\05.Calculate1plus1FactorialDividedByX\obj\Debug\05.Calculate1plus1FactorialDividedByX.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dobromir\Documents\Visual Studio 2015\Projects\07.Loops\13.BinaryТoDecimalNumber\bin\Debug\13.BinaryТoDecimalNumber.exe.config
+C:\Users\Dobromir\Documents\Visual Studio 2015\Projects\07.Loops\13.BinaryТoDecimalNumber\bin\Debug\13.BinaryТoDecimalNumber.exe
+C:\Users\Dobromir\Documents\Visual Studio 2015\Projects\07.Loops\13.BinaryТoDecimalNumber\bin\Debug\13.BinaryТoDecimalNumber.pdb
+C:\Users\Dobromir\Documents\Visual Studio 2015\Projects\07.Loops\13.BinaryТoDecimalNumber\obj\Debug\13.BinaryToDecimalNumber.csprojResolveAssemblyReference.cache
+C:\Users\Dobromir\Documents\Visual Studio 2015\Projects\07.Loops\13.BinaryТoDecimalNumber\obj\Debug\13.BinaryТoDecimalNumber.exe
+C:\Users\Dobromir\Documents\Visual Studio 2015\Projects\07.Loops\13.BinaryТoDecimalNumber\obj\Debug\13.BinaryТoDecimalNumber.pdb

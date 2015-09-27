@@ -1,0 +1,5 @@
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\04.PrintAdeckOf52Cards\bin\Debug\04.PrintAdeckOf52Cards.exe.config
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\04.PrintAdeckOf52Cards\bin\Debug\04.PrintAdeckOf52Cards.exe
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\04.PrintAdeckOf52Cards\bin\Debug\04.PrintAdeckOf52Cards.pdb
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\04.PrintAdeckOf52Cards\obj\Debug\04.PrintAdeckOf52Cards.exe
+c:\users\dobromir\documents\visual studio 2015\Projects\07.Loops\04.PrintAdeckOf52Cards\obj\Debug\04.PrintAdeckOf52Cards.pdb
